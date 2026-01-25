@@ -1,2 +1,26 @@
-# SummonLib-Docs
-Asset-driven summon system for Hytale: define summons in JSON, tune movement/combat behavior, and control them via Interaction assets (cast, remove last, clear all).
+# SummonLib
+
+SummonLib is an asset-driven minion/summon library for Hytale server mods.  
+It lets you define summons in JSON assets and then invoke or remove them through interactions and items—without hardcoding per-summon logic.
+
+## What it does
+
+- **Asset-driven summons**: define summon behavior and parameters via `SummonConfig` assets.
+- **Two summon types** (current):
+  - **MODEL**: a non-NPC model that follows the player using formation logic (no real navigation; ignores blocks).
+  - **NPC_ROLE**: an NPC-based summon (currently focused on flying allies) that moves with actual navigation and collides with blocks.
+- **Simple casting/removal**: wire summon actions through Interactions and RootInteractions for items to use.
+
+## Links
+
+- CurseForge: **[ADD LINK HERE]**
+- Wiki / Documentation: **[ADD LINK HERE]**
+- Issues / Bug Reports: use GitHub Issues.
+
+## Status
+
+This project is actively developed and may change as new features (formations, additional summon behaviors, expanded tuning, etc.) are added.
+
+## License
+
+See `LICENSE`.
