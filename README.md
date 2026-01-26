@@ -13,9 +13,9 @@ It lets you define summons in JSON assets and then invoke or remove them through
 
 ## Links
 
-- CurseForge: **[ADD LINK HERE]**
-- Wiki / Documentation: **[ADD LINK HERE]**
-- Issues / Bug Reports: use GitHub Issues.
+- CurseForge **[Under Review]**.
+- [Wiki / Documentation](https://github.com/S3B4S5C/SummonLib-Docs/wiki).
+- Issues / Bug Reports / Suggestions: join the lib's [Discord Server](https://discord.gg/VRH5eh7y).
 
 ## Status
 
