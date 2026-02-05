@@ -14,7 +14,7 @@ It lets you define summons in JSON assets and then invoke or remove them through
 
 ## Links
 
-- CurseForge **[Under Review]**.
+- [CurseForge](https://www.curseforge.com/hytale/mods/summonlib).
 - [Wiki / Documentation](https://github.com/S3B4S5C/SummonLib-Docs/wiki).
 - Issues / Bug Reports / Suggestions: join the lib's [Discord Server](https://discord.gg/VRH5eh7y).
 
