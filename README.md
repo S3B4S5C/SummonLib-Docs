@@ -6,9 +6,10 @@ It lets you define summons in JSON assets and then invoke or remove them through
 ## What it does
 
 - **Asset-driven summons**: define summon behavior and parameters via `SummonConfig` assets.
-- **Two summon types** (current):
-  - **MODEL**: a non-NPC model that follows the player using formation logic (no real navigation; ignores blocks).
-  - **NPC_ROLE**: an NPC-based summon (currently focused on flying allies) that moves with actual navigation and collides with blocks.
+- **Summon types** (current):
+  - **MODEL**: a non-NPC model summon that follows the player using formation logic (no real navigation; ignores blocks). *(stable)*
+  - **NPC_ROLE**: an NPC-based summon that moves with actual navigation and collides with blocks. *(stable)*
+  - **WORM**: a new summon type currently in **WIP**. *(not stable yet)*
 - **Simple casting/removal**: wire summon actions through Interactions and RootInteractions for items to use.
 
 ## Links
